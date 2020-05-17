@@ -1,0 +1,82 @@
+
+Escaap.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+run
+  rotate: false
+  xy: 1, 31
+  size: 292, 32
+  orig: 292, 32
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 295, 19
+  size: 229, 44
+  orig: 229, 44
+  offset: 0, 0
+  index: -1
+little_mario
+  rotate: false
+  xy: 1, 1
+  size: 224, 16
+  orig: 224, 16
+  offset: 0, 0
+  index: -1
+Ghost
+  rotate: false
+  xy: 526, 32
+  size: 142, 31
+  orig: 142, 31
+  offset: 0, 0
+  index: -1
+turtle
+  rotate: false
+  xy: 670, 39
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 227, 1
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 768, 29
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 800, 26
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Hammer Mario
+  rotate: false
+  xy: 832, 40
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+mushroom
+  rotate: false
+  xy: 277, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 526, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
